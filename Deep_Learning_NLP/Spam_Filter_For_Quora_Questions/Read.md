@@ -14,11 +14,11 @@
 
 ## Performance of Different Pretrained Models:
 
+First Table shows the performance of the models on the basis of Accuracy and ROC AUC Score and the second table shows the number of questions each models with different pretrained embeddings were correctly able to classify as Spam & Non-Spam.
+
 ![Performance of Different Pretrained Models](https://github.com/rohitrrk22/Deep-Learning/blob/master/Deep_Learning_NLP/Spam_Filter_For_Quora_Questions/Images/Performance.PNG)
 
 * Confusion Matrix Observations:
-  Following Table shows the number of questions each models with different pretrained embeddings were correctly able to classify as Spam & Non-Spam.
-  
   ![Confusion Matrix of Different Pretrained Models](https://github.com/rohitrrk22/Deep-Learning/blob/master/Deep_Learning_NLP/Spam_Filter_For_Quora_Questions/Images/Confusion_Matrix.PNG)
 
   
