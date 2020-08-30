@@ -31,6 +31,15 @@ The Following table shows the number of questions each models with different pre
 * On the basis of the Confusion Matrix Table we can say that the model with "Glove" pretrained embedding performs the best among all as it correctly classifies most of the questions as Spam & Non-Spam while model with "Bert" pretrained embeddings performs the worst as it classifies all the questions as Non-Spam Questions.
 * On the basis of above observations we can conclude that the model with "Glove" pretrained embeddings is the best suitable for the Quora Spam Filter Classifier Use Case.
 
+## Usage:
+```
+SpamFilter_GLOVE_Final.ipynb
+FastText.ipynb
+Word2Vec.ipynb
+SpamFilter_Bert_Embedding.ipynb
+```
+
+
   
   
 
