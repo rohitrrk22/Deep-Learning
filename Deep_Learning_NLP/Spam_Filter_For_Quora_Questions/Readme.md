@@ -45,3 +45,14 @@ SpamFilter_Bert_Embedding.ipynb
 
 ## Tested On:
 * [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+
+
+
+## Acknowledgment:
+1. [Glove](https://nlp.stanford.edu/projects/glove/)
+2. [Word2Vec](http://vectors.nlpl.eu/repository/)
+3. [FastText](https://fasttext.cc/docs/en/english-vectors.html)
+4. [Bert](https://github.com/google-research/bert)
+
+
+
