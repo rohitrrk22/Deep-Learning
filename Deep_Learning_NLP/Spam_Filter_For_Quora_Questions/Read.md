@@ -10,3 +10,7 @@
 * [Word2Vec Pretrained Embeddings](http://vectors.nlpl.eu/repository/)
 * [FastText Pretrained Embeddings](https://fasttext.cc/docs/en/english-vectors.html)
 * [Bert Pretrained Embeddings](https://github.com/google-research/bert)
+
+## Tested On:
+* [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+
