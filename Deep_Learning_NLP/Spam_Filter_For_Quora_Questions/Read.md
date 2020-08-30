@@ -23,6 +23,12 @@ The Following table shows the number of questions each models with different pre
 
 ![Confusion Matrix of Different Pretrained Models](https://github.com/rohitrrk22/Deep-Learning/blob/master/Deep_Learning_NLP/Spam_Filter_For_Quora_Questions/Images/Confusion_Matrix.PNG)
 
+## Observations and Conclusion:
+* As per the observation from the performance table,the accuracy of all the models on both the train and test dataset looks quite similar but on the basis of ROC AUC Score we can say that the model with "Bert" embedding performs poorly as compared to other three models.
+* Since as per the performance table models with Glove,FastText & Word2Vec pretrained embeddings performance almost similarly we need to check how these models classify the two classes for which we need to observe the Confusion Matrix Table.
+* By observing the Confusion Matrix Table we can see how each model classifies both the classes as compared to actual questions for both classes as 15991 of Spam Questions and 245234 of Non-Spam Question.On the basis of the Confusion Matrix Table we can say that the model with "Glove" pretrained embedding performs the best among all as it correctly classifies most of the questions as Spam & Non-Spam while model with "Bert" pretrained embeddings performs the worst as it classifies all the questions as Non-Spam Questions.
+* On the basis of above observations we can conclude that the model with "Glove" pretrained embeddings is the best suitable for the Quora Spam Filter Classifier Use Case.
+
   
   
 
