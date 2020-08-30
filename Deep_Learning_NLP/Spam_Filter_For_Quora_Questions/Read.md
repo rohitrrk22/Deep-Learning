@@ -2,7 +2,7 @@
 
        A Spam Question Classifier for Quora Questions using pretrained embedding like Glove,Bert,Word2Vec & FastText. 
     
-# Requirements:
+## Requirements:
 * TensorFlow 2.x
 * NLTK
 * Punkt Sentence Tokenizer from NLTK
