@@ -17,15 +17,11 @@
 ![Performance of Different Pretrained Models](https://github.com/rohitrrk22/Deep-Learning/blob/master/Deep_Learning_NLP/Spam_Filter_For_Quora_Questions/Images/Performance.PNG)
 
 * Confusion Matrix Observations:
-  * Glove: 
-    Model with Pretrained Glove Embedding correctly classifies 10716 Questions as Spam and 239305 Questions as Not Spam.
-  * FastText: 
-    Model with Pretrained FastText Embedding correctly classifies 8121 Questions as Spam and 242210 Questions as Not Spam.
-  * Word2Vec: 
-    Model with Pretrained Word2Vec Embedding correctly classifies 3452 Questions as Spam and 243612 Questions as Not Spam.
-  * Bert: 
-    Model with Pretrained Bert Embedding correctly classifies 0 Questions as Spam and 245234 Questions as Not Spam.
+  Following Table shows the number of questions each models with different pretrained embeddings were correctly able to classify as Spam & Non-Spam.
+  
+  ![Confusion Matrix of Different Pretrained Models](https://github.com/rohitrrk22/Deep-Learning/blob/master/Deep_Learning_NLP/Spam_Filter_For_Quora_Questions/Images/Confusion_Matrix.PNG)
 
+  
   
 
 ## Tested On:
