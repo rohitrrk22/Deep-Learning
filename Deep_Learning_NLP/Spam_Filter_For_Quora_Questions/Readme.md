@@ -1,6 +1,6 @@
 # Spam Filter for Quora Questions using Transfer Learning
 
-       A Spam Question Classifier for Quora Questions using pretrained embedding like Glove,Bert,Word2Vec & FastText. 
+       A Spam Question Classifier for Quora Questions using pretrained embeddings like Glove,Bert,Word2Vec & FastText. 
     
 ## Requirements:
 * TensorFlow 2.x
