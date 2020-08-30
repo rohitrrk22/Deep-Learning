@@ -16,13 +16,4 @@
 
 ## Performance of Different Pretrained Models:
 
-|              | Train | Test |
-| :---         |     :---:      |          ---: |
-| Different Pretrained Models | Accuracy | Accuracy | ROC AUC Score |
-| --- | --- | --- | --- |
-| GLOVE | 0.9665 | 0.9571 | 0.9622 |
-| FastText | 0.9572 | 0.9583 | 0.9626 |
-| Word2Vec | 0.9434 | 0.9458 | 0.9086 |
-| Bert | 0.938 | 0.9388 | 0.5 |
-
 
