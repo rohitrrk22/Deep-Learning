@@ -34,8 +34,11 @@ For Music Genre Identification using pretrained InceptionV3 Model:
 * Since the size of the entire dataset is quite low(1000 images) before passing the data to model for training we would be artificially expand the size of a training dataset by   creating modified versions of images in the dataset using Image Data Augmentation Technique.
 * Using pretrained CNN(InceptionV3) Model we are training the model and checking its performance on Validation and Test Dataset respectively.
 
-Note:
-Spectograms - A spectrogram is a visual representation of the spectrum of frequencies of sound or other signal as they vary with time. Spectograms allow looking at the whole song once and get the information about the tones present right away!
+# Note:
+* Spectograms - A spectrogram is a visual representation of the spectrum of frequencies of sound or other signal as they vary with time. Spectograms allow looking at the whole song once and get the information about the tones present right away!
+* Following are spectogram images for Genres such as Blues & Jazz:
+
+![Spectogram of Blues]https://github.com/rohitrrk22/Deep-Learning/blob/master/Audio_Data/Music_Genre_Identification/Images/Spectogram_blues.PNG
 
 
 
