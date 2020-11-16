@@ -48,9 +48,13 @@ For Music Genre Identification using pretrained InceptionV3 Model:
    Getting 100% accuracy on Train Set and 75% accuracy on both Validation and Test Sets.
  
  * Classification Report:
+ 
+ 
  ![Classification_Report](https://github.com/rohitrrk22/Deep-Learning/blob/master/Audio_Data/Music_Genre_Identification/Images/Classification_Report.PNG)
  
  * Confusion Matrix:
+ 
+ 
  ![Confusion Matrix](https://github.com/rohitrrk22/Deep-Learning/blob/master/Audio_Data/Music_Genre_Identification/Images/Confusion_Matrix.PNG)
  
 
