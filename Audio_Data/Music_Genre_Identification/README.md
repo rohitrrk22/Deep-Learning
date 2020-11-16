@@ -40,6 +40,8 @@ For Music Genre Identification using pretrained InceptionV3 Model:
 
 ![Spectogram of Blues](https://github.com/rohitrrk22/Deep-Learning/blob/master/Audio_Data/Music_Genre_Identification/Images/Spectogram_blues.PNG)
 
+![Spectogram of Jazz](https://github.com/rohitrrk22/Deep-Learning/blob/master/Audio_Data/Music_Genre_Identification/Images/Spectogram_jazz.PNG)
+
 
 
 ## Usage
