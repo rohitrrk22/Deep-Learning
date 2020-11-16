@@ -38,7 +38,7 @@ For Music Genre Identification using pretrained InceptionV3 Model:
 * Spectograms - A spectrogram is a visual representation of the spectrum of frequencies of sound or other signal as they vary with time. Spectograms allow looking at the whole song once and get the information about the tones present right away!
 * Following are spectogram images for Genres such as Blues & Jazz:
 
-![Spectogram of Blues]https://github.com/rohitrrk22/Deep-Learning/blob/master/Audio_Data/Music_Genre_Identification/Images/Spectogram_blues.PNG
+![Spectogram of Blues](https://github.com/rohitrrk22/Deep-Learning/blob/master/Audio_Data/Music_Genre_Identification/Images/Spectogram_blues.PNG)
 
 
 
