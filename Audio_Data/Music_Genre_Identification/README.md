@@ -39,3 +39,10 @@ Project2_Music_Genre_Identification.ipynb
 
 ## Tested On:
 * [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+
+## Acknowledgment:
+1. [Music Genre Classification with Python](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8)
+2. [Using CNNs and RNNs for Music Genre Recognition](https://towardsdatascience.com/using-cnns-and-rnns-for-music-genre-recognition-2435fb2ed6af)
+3. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+
+
