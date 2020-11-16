@@ -30,7 +30,7 @@ Each genre contains 100 songs. Total dataset: 1000 songs
 
 ## Usage:
 ```
-Project2_Music_Genre_Identification.ipynb
+Music_Genre_Identification.ipynb
 ```
 
 
