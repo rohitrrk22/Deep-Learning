@@ -29,7 +29,7 @@ Each genre contains 100 songs. Total dataset: 1000 songs
 
 ## Overview
 For Music Genre Identification using pretrained InceptionV3 Model:
-* Converting all the Audio Files(.au) into Spectograms using Librosa python package and saving those spectograms in respective genres folders.
+* Converting all the Audio Files(.au) into Spectograms Images using Librosa python package and saving those spectograms in respective genres folders.
 * Shuffling the images of the spectograms and splitting the data into Train,Validation and Test Sets.
 * Since the size of the entire dataset is quite low(1000 images) before passing the data to model for training we would be artificially expand the size of a training dataset by   creating modified versions of images in the dataset using Image Data Augmentation Technique.
 * Using pretrained CNN(InceptionV3) Model we are training the model and checking its performance on Validation and Test Dataset respectively.
@@ -43,18 +43,25 @@ For Music Genre Identification using pretrained InceptionV3 Model:
 ![Spectogram of Jazz](https://github.com/rohitrrk22/Deep-Learning/blob/master/Audio_Data/Music_Genre_Identification/Images/Spectogram_jazz.PNG)
 
 
+## Results
+ * Accuracy:
+   Getting 100% accuracy on Train Set and 75% accuracy on both Validation and Test Sets.
+ 
+ * Classification Report:
+ ![Classification_Report](https://github.com/rohitrrk22/Deep-Learning/blob/master/Audio_Data/Music_Genre_Identification/Images/Classification_Report.PNG)
+ 
+ * Confusion Matrix:
+ ![Confusion Matrix](https://github.com/rohitrrk22/Deep-Learning/blob/master/Audio_Data/Music_Genre_Identification/Images/Confusion_Matrix.PNG)
+ 
 
 ## Usage
 ```
 Music_Genre_Identification.ipynb
-```
-
-
-  
-  
+``` 
 
 ## Tested On
 * [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+
 
 ## Acknowledgments
 1. [Music Genre Classification with Python](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8)
